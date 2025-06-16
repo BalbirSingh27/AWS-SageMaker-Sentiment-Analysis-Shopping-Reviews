@@ -1,4 +1,4 @@
-# 🛍️ Final Project: Evaluating Business Ratings & Preferences Across Shopping Categories
+# 🛍️  Evaluating Yelp Business Ratings & Preferences Across Shopping Categories
 
 ## 🎯 Objective
 This project investigates customer reviews across different **shopping categories** to:
