@@ -42,7 +42,7 @@ Within the shopping domain, we aimed to understand:
 ## 💾 Dataset
 
 🔗 **Full Dataset (on Kaggle)**:  
-👉balbir27/yelp-dataset-shopping-reviews-sentiment-analysis
+👉[balbir27/yelp-dataset-shopping-reviews-sentiment-analysis](https://www.kaggle.com/datasets/balbir27/yelp-dataset-shopping-reviews-sentiment-analysis)
 
 📎 Note: A small sample dataset may be included in the repo for demonstration purposes.
 
