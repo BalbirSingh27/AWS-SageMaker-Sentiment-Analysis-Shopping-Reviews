@@ -33,22 +33,18 @@ Within the shopping domain, we aimed to understand:
 ## 📦 Repository Structure
 
 ```
-# 📦 Yelp Dataset (Full Version)
-
-Due to GitHub's file size limitations, the full dataset used in this project is hosted externally on Kaggle.
-
-🔗 **Download the full dataset here**:  
-👉 [Yelp Dataset - Shopping Reviews & Sentiment Analysis (Kaggle)](https://www.kaggle.com/datasets/balbir27/yelp-dataset-shopping-reviews-sentiment-analysis)
-
-📁 This folder contains only a sample dataset for demonstration purposes (if added).
-
-Feel free to download the full version from the link above to run the complete analysis.
 
 📁 data/                → Raw business and review datasets  
 📁 notebooks/           → Jupyter Notebook with full analysis (AWS SageMaker)  
 📄 509 Final Project.ipynb → Core analysis script  
 📄 README.md            → Project overview and results summary
 ```
+## 💾 Dataset
+
+🔗 **Full Dataset (on Kaggle)**:  
+👉 [Yelp Dataset – Shopping Reviews & Sentiment Analysis](https://www.kaggle.com/datasets/balbir27/yelp-dataset-shopping-reviews-sentiment-analysis)
+
+📎 Note: A small sample dataset may be included in the repo for demonstration purposes.
 
 ## 📝 Recommendations
 
