@@ -35,9 +35,10 @@ Within the shopping domain, we aimed to understand:
 ```
 
 📁 data/                → Raw business and review datasets  
-📁 notebooks/           → Jupyter Notebook with full analysis (AWS SageMaker)  
+📁 notebooks/           → Jupyter Notebook with full analysis (developed in AWS SageMaker Studio)   ☁️📓
 📄 509 Final Project.ipynb → Core analysis script  
 📄 README.md            → Project overview and results summary
+
 ```
 ## 💾 Dataset
 
